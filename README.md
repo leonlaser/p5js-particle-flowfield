@@ -21,5 +21,5 @@ You are able to change some basic parameters:
 
 Made with [P5.js](https://p5js.org/).
 
-[Click here to show  in your browser.](http://htmlpreview.github.io/?https://github.com/achjaderleon/p5js-particle-flowfield/blob/master/index.html)
+[Click here to show  in your browser.](https://codepen.io/achjaderleon/pen/wvovgJy)
 
