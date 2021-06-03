@@ -1,5 +1,5 @@
 const DEBUG = false;
-const FLOW_TILE_SIZE = 50;
+const FLOW_TILE_SIZE = 10;
 const FLOW_TILE_INFLUENCE = 0.20;
 const FLOW_TILE_MOVEMENT = 0.0008;
 const PARTICLES_NUMBER = DEBUG ? 1000 : 250;
