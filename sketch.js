@@ -103,7 +103,7 @@ class FlowField {
     this.flowField = [];
     for(let x = 0; x <= width; x+= FLOW_TILE_SIZE) {
       this.flowField[x] = [];
-      for(let y = 0; y <= width; y+= FLOW_TILE_SIZE) {
+      for(let y = 0; y <= height; y+= FLOW_TILE_SIZE) {
         this.flowField[x][y] = new FlowTile(x, y);
       }
     }
